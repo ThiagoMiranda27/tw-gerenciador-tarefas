@@ -1,2 +1,11 @@
+br\com\ibm\twgerenciadortarefas\repositorio\RepositorioUsuario.class
 br\com\ibm\twgerenciadortarefas\controllers\HomeController.class
 br\com\ibm\twgerenciadortarefas\TwGerenciadorTarefasApplication.class
+br\com\ibm\twgerenciadortarefas\modelos\Tarefa.class
+br\com\ibm\twgerenciadortarefas\servicos\ServicoUsuario.class
+br\com\ibm\twgerenciadortarefas\repositorio\RepositorioTarefa.class
+br\com\ibm\twgerenciadortarefas\modelos\Usuario.class
+br\com\ibm\twgerenciadortarefas\webMvcConfig.class
+br\com\ibm\twgerenciadortarefas\controllers\ContaController.class
+br\com\ibm\twgerenciadortarefas\controllers\TarefasController.class
+br\com\ibm\twgerenciadortarefas\SecurityConfig.class
